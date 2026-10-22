@@ -33,7 +33,7 @@ The application is structured with a modular architecture:
 ## Prerequisites
 
 - macOS (tested on macOS 14.x+)
-- Go 1.19+ (for building from source)
+- Go 1.27.3+ (for building from source)
 - Administrator access for LaunchDaemon installation
 - Prometheus server (for metrics collection)
 
